@@ -1,0 +1,21 @@
+{
+  "name": "خطوة بلان · Khatwa Plan",
+  "short_name": "خطوة بلان",
+  "description": "تطبيق هندسي لرسم المخططات المعمارية وتصديرها للأوتوكاد DXF",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f2f5f1",
+  "theme_color": "#176b50",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
