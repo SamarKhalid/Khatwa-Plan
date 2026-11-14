@@ -129,6 +129,15 @@ export const ar: Messages = {
   'editor.toast.loaded': 'تم فتح المخطط في المحرر',
   'editor.toast.guestRestricted': 'سجّل الدخول لحفظ أعمالك وفتح السجل',
 
+  'installNotice.title': 'نصيحة لأفضل تجربة على الهاتف',
+  'installNotice.androidTitle': 'أندرويد (Chrome)',
+  'installNotice.androidText':
+    'افتح الرابط https://samarkhalid.github.io/Khatwa-Plan/. يمكنك استخدامه مباشرة في المتصفح أو الضغط على القائمة (⋮) ثم «تثبيت التطبيق» أو «إضافة إلى الشاشة الرئيسية» لتجربة تطبيق كاملة.',
+  'installNotice.iosTitle': 'آيفون / آيباد (Safari)',
+  'installNotice.iosText':
+    'افتح الرابط https://samarkhalid.github.io/Khatwa-Plan/. اضغط على زر المشاركة (↑) بالأسفل ثم اختر «إضافة إلى الصفحة الرئيسية» لتشغيله كأنه تطبيق بدون أشرطة المتصفح.',
+  'installNotice.dismiss': 'فهمت، متابعة',
+
   'lang.switch': 'English',
   'lang.switchLabel': 'التبديل إلى الإنجليزية',
   'loading': 'جارٍ التحميل…',

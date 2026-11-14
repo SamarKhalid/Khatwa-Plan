@@ -3,6 +3,7 @@
   import { t } from '@/i18n';
   import AuthPage from './components/AuthPage.svelte';
   import Editor from './components/Editor.svelte';
+  import InstallNoticeDialog from './components/InstallNoticeDialog.svelte';
 </script>
 
 {#if $auth.status === 'loading'}
@@ -15,6 +16,8 @@
 {:else}
   <Editor />
 {/if}
+
+<InstallNoticeDialog />
 
 <style>
   .splash {

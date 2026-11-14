@@ -128,6 +128,15 @@ export const en = {
   'editor.toast.loaded': 'Plan opened in editor',
   'editor.toast.guestRestricted': 'Sign in to save and access plan history',
 
+  'installNotice.title': 'Tip for the best mobile experience',
+  'installNotice.androidTitle': 'Android (Chrome)',
+  'installNotice.androidText':
+    'Open https://samarkhalid.github.io/Khatwa-Plan/. You can use it directly in browser or tap Menu (⋮) → "Install app" / "Add to Home screen" for full-screen native feel.',
+  'installNotice.iosTitle': 'iPhone / iPad (Safari)',
+  'installNotice.iosText':
+    'Open https://samarkhalid.github.io/Khatwa-Plan/. Tap the Share button (↑) → "Add to Home Screen" to run it without browser toolbars.',
+  'installNotice.dismiss': 'Got it, continue',
+
   'lang.switch': 'العربية',
   'lang.switchLabel': 'Switch to Arabic',
   'loading': 'Loading…',
